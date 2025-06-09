@@ -1,2 +1,1 @@
-# git-test
-Remote for testing git commands for the Git Pro 9 book
+In this repo, I practice Git commands from the book "Pro Git" by Scott Chacon and Ben Straub 
