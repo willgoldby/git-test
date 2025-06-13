@@ -16,6 +16,7 @@ Prints out the commit history, line by line.
 # git branch -v
 Lists the last commit for each branch.
 
+comment made on main 2
 # git branch --merged
 List the branches merged into the current branch.
 
