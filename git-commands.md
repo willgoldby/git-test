@@ -30,3 +30,5 @@ List information about the remote branch or branches.
 Integrates changes from another branch to the one you're on. Instead of making a new merge commit, it takes the unique commits from your current branch and replays them on top of the latest commit from the other branch (the one you are rebasing onto). This changes the base commit of your current branch, making it appear as if you started your work from the latest point of the other branch
 
 Edited this line on main.
+
+edit this line on more-commands branch
