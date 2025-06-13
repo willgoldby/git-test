@@ -28,3 +28,5 @@ List information about the remote branch or branches.
 
 # git rebase <the branch you want to integrate into the one you're on>
 Integrates changes from another branch to the one you're on. Instead of making a new merge commit, it takes the unique commits from your current branch and replays them on top of the latest commit from the other branch (the one you are rebasing onto). This changes the base commit of your current branch, making it appear as if you started your work from the latest point of the other branch
+
+Edited this line on main.
