@@ -40,4 +40,3 @@ Rebases the last branch onto main
 # git diff branch...branch
 Shows what is different between two branches. Useful for seeing what a topic
 branch might introduce into the main branch.
->>>>>>> more-commands
