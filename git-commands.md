@@ -32,3 +32,7 @@ Integrates changes from another branch to the one you're on. Instead of making a
 Edited this line on main.
 
 edit this line on more-commands branch
+
+# git diff branch...branch
+Shows what is different between two branches. Useful for seeing what a topic
+branch might introduce into the main branch.
