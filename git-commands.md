@@ -36,3 +36,6 @@ edit this line on more-commands branch
 # git diff branch...branch
 Shows what is different between two branches. Useful for seeing what a topic
 branch might introduce into the main branch.
+
+# git diff --check
+Checks files for trailing whitespace.
