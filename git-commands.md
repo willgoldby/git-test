@@ -43,3 +43,14 @@ branch might introduce into the main branch.
 
 # git diff --check
 Checks files for trailing whitespace.
+
+# git show branch
+Shows the commit at the tip of the branch. Kind of like git log --oneline, but
+the only commit displayed is the tip commit.
+
+# git reflog
+Shows where the HEAD and branches references have been for a few months.
+
+# git log branch1..branch2
+Shows you what is on branch2 that isn't on branch1.
+Also, git log branch..HEAD work.
