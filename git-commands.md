@@ -55,5 +55,8 @@ Shows where the HEAD and branches references have been for a few months.
 Shows you what is on branch2 that isn't on branch1.
 Also, git log branch..HEAD work.
 
-#git log refA refB --not refC
+# git log refA refB --not refC
 Shows you what's in ref A refB but not in refC.
+
+# git add -i
+Interactive staging lets you pick from some options to stage and exam files 
