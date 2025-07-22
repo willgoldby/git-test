@@ -64,3 +64,6 @@ Interactive staging lets you pick from some options to stage and exam files
 #git revert <commit>
 Moves HEAD back to before the <commit>
 
+# git reset [options] <commit>
+Moves HEAD to a previous commit, effective undoing work in the previous commits
+after the <commit>.
