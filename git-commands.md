@@ -60,3 +60,7 @@ Shows you what's in ref A refB but not in refC.
 
 # git add -i
 Interactive staging lets you pick from some options to stage and exam files 
+
+#git revert <commit>
+Moves HEAD back to before the <commit>
+
